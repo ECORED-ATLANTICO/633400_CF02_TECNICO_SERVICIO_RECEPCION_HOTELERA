@@ -94,8 +94,7 @@
     //-             p.mb-0 Los componentes del sistema turístico interactúan de manera continua para facilitar el desarrollo de la actividad turística en un territorio determinado, permitiendo que los visitantes disfruten de una experiencia satisfactoria y coherente con sus expectativas.
     //-           .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
     //-             a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=hxF0S1s5ZxE" target="_blank")
-    //-               span Ver video
-    //-               i.fas.fa-play-circle
+    //-               span Ir al recurso
 
 
 
@@ -347,8 +346,7 @@
                 p.mb-0 Le invitamos a ingresar al siguiente enlace web, donde podrá consultar la Ley 300 de 1996 o Ley General de Turismo, que legisla este tipo de actividades en Colombia: 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(:href="obtenerLink('downloads/Anexos/LEY_300_1996.pdf')" target="_blank")
-                  span Ver PDF
-                  i.fas.fa-file-pdf
+                  span Ir al recurso
 
 </template>
 

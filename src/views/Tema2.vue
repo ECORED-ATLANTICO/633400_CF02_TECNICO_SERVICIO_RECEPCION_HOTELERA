@@ -40,8 +40,7 @@
                 p.mb-0 Le invitamos a consultar el siguiente video, el cual resume las características principales del portafolio de servicios. 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://youtu.be/3BsU1h2Syr4" target="_blank")
-                  span Ver video
-                  i.fas.fa-play-circle
+                  span Ir al recurso
 
     separador
     
