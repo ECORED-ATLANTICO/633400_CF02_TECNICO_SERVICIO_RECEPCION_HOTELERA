@@ -302,22 +302,21 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Antonietti, G. (2017). <em>Fundamentos del turismo.</em>',
+      referencia: 'Antonietti, G. (2017). Fundamentos del turismo.',
       link: '',
     },
     {
       referencia:
-        'Boullón, R. C. (2006). <em>Planificación del Espacio Turístico.</em> Ciudad de México: Editorial Trillas.',
+        'Boullon, R. C. (2006). Planificación del Espacio Turístico. Ciudad de México: Editorial Trillas.',
       link: '',
     },
     {
       referencia:
-        'Cabarcos Novas, N. (2006). <em>Promoción y venta de servicios turísticos.</em> Ideas propias Editorial.',
+        'Cabarcos Novas, N. (2006). Promoción y venta de servicios turísticos. Ideas propias Editorial.',
       link: '',
     },
     {
-      referencia:
-        'Fondo Nacional de Turismo. (6 de abril de 2021). <em>FONTUR.</em>',
+      referencia: 'Fondo Nacional de Turismo. (6 de 4 de 2021). FONTUR.',
       link: 'https://fontur.com.co/es/glosario?q=es/glosario',
     },
     {
@@ -327,28 +326,28 @@ export default {
     },
     {
       referencia:
-        'Novas, N. C. (2006). <em>Promoción y Venta de Servicios Turísticos</em> (1a. Edición ed.). La Habana, Cuba: Ideas propias, Editorial Vigo.',
+        'Novas, N. C. (2006). Promoción y Venta de Servicios Turísticos (1a. Edición ed.). La Habana, Cuba: Ideas propias, Editorial Vigo.',
       link: 'https://issuu.com/ideaspropiaseditorial/docs/978-84-9839-101-5',
     },
     {
       referencia:
-        'Organización Mundial del Turismo (OMT). (2008). <em>Introducción al turismo.</em>',
+        'Organización Mundial del Turismo (OMT). (2008). Introducción al turismo.',
       link: '',
     },
     {
       referencia:
-        'Ruano Pavón, C. (2012). <em>Promoción y comercialización de productos y servicios turísticos locales.</em> Málaga: IC Editorial.',
+        'Pavón, C. R. (2012). Promoción y comercialización de productos y servicios turísticos locales. Málaga: IC Editorial.',
       link:
         'http://descargas.pntic.mec.es/mentor/visitas/promocion_comercializacion_productos_servicioslocales.pdf',
     },
     {
       referencia:
-        'Ramírez Cavazza, C. (2007). <em>Administración de empresas turísticas.</em> Editorial Trillas.',
+        'Ramírez Cavazza, C. (2007). Administración de empresas turísticas. Editorial Trillas.',
       link: '',
     },
     {
       referencia:
-        'Morillo Moreno, M. C. (2011). <em>Turismo y producto turístico. Evolución, conceptos, componentes y clasificación.</em> Visión Gerencial, (1), 135-158.',
+        'Visión Gerencial. Marysela Coromoto Morillo Moreno (2011). Turismo y producto turístico. Evolución, conceptos, componentes y clasificación.',
       link: 'https://www.redalyc.org/pdf/4655/465545890011.pdf',
     },
   ],
@@ -365,7 +364,7 @@ export default {
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de la línea de producción',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -374,18 +373,18 @@ export default {
       autores: [
         {
           nombre: 'Amparo Virginia Moreno Cantero',
-          cargo: 'Experto temático',
+          cargo: 'Experta temática',
           centro: 'Centro de Servicios y Gestión Empresarial',
         },
         {
           nombre: 'Harbey Castelblanco Muñoz',
           cargo: 'Experto temático',
-          centro: 'Centro Nacional Colombo Alemán – Atlántico',
+          centro: 'Centro Nacional Colombo Alemán - Atlántico',
         },
         {
           nombre: 'María Fernanda Morales Angulo',
-          cargo: 'Diseñador instruccional',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -394,18 +393,18 @@ export default {
       autores: [
         {
           nombre: 'Carmen Alicia Martínez Torres',
-          cargo: 'Diseño web',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Diseñadora web',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -414,23 +413,23 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jonathan Adié Villafañe',
           cargo: 'Validador y vinculador de recursos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Validadora y vinculadora de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

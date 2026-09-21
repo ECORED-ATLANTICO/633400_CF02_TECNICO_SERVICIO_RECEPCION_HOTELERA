@@ -84,7 +84,6 @@
           span Códigos comunes en sistemas de gestión hotelera (PMS)
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA (2026).</span>
             thead
               tr
                 th Código

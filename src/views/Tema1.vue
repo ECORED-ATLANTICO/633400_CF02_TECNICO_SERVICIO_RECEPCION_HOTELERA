@@ -115,7 +115,6 @@
           span El sistema turístico y sus componentes
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA (2026).</span>
             thead
               tr
                 th Componente del sistema turístico
@@ -215,7 +214,6 @@
           span Características del producto turístico
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA (2026).</span>
             thead
               tr
                 th Característica
@@ -307,7 +305,6 @@
           span Clasificación de los productos turísticos
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA (2026).</span>
             thead
               tr
                 th Tipo de producto turístico

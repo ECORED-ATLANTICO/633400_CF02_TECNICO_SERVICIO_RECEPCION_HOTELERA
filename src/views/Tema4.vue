@@ -75,7 +75,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema4/img06.png", alt="alt")
+              img(src="@/assets/curso/tema4/img06.png", alt="")
           .crd_hover_txt--body.bg-color-23
             h5.mb-2 Presentación personal
             .p-2
@@ -85,7 +85,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema4/img07.png", alt="alt")
+              img(src="@/assets/curso/tema4/img07.png", alt="")
           .crd_hover_txt--body.bg-color-22
             h5.mb-2 Comunicación verbal
             .p-2
@@ -95,7 +95,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema4/img08.png", alt="alt")
+              img(src="@/assets/curso/tema4/img08.png", alt="")
           .crd_hover_txt--body.bg-color-22
             h5.mb-2 Amabilidad y actitud de servicio
             .p-2
@@ -105,7 +105,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema4/img09.png", alt="alt")
+              img(src="@/assets/curso/tema4/img09.png", alt="")
           .crd_hover_txt--body.bg-color-23
             h5.mb-2 Comunicación no verbal
             .p-2
