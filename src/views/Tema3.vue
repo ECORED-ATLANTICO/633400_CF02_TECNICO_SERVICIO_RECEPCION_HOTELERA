@@ -161,7 +161,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema3/img11.svg", class="img-fluid cita-decorada__imagen-flotante-4")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Lo invitamos a consultar el siguiente video para conocer de manera práctica cómo funciona la gestión de reserva hotelera por medio del PSM <em>(Property Management System)</em>.
+                p.mb-0 Lo invitamos a consultar el siguiente video para conocer de manera práctica cómo funciona la gestión de reserva hotelera por medio del PMS <em>(Property Management System)</em>.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=xb0ZUTCUX08" target="_blank")
                   span Ir al recurso
