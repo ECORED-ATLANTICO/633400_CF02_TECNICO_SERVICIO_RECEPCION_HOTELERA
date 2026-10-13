@@ -56,58 +56,56 @@
                 th Aplicación en reservas
             tbody
               tr
-                td Tarifa <i>rack</i>
-                td Tarifa oficial sin descuentos
-                td Base de referencia para otras tarifas
+                td Tarifa rack
+                td Tarifa pública de referencia establecida por el alojamiento, antes de aplicar descuentos o condiciones comerciales especiales.
+                td Se utiliza como referencia para cotizaciones y comparación de tarifas.
               tr
-                td Tarifa neta o de piso
-                td Tarifa para intermediarios (sin margen incluido)
-                td Uso en agencias y plataformas
-              tr
-                td Tarifa confirmada
-                td Precio acordado con el cliente al reservar
-                td Garantiza condiciones al huésped
+                td Tarifa neta
+                td Precio acordado con intermediarios, sin incluir el margen comercial que estos puedan adicionar.
+                td Se aplica en acuerdos comerciales con agencias de viajes y otros intermediarios.
               tr
                 td Tarifa negociada
-                td Tarifa con descuento por convenio
-                td Empresas, agencias, clientes frecuentes
+                td Precio establecido mediante acuerdos comerciales con empresas, agencias o clientes específicos.
+                td Se utiliza en reservas corporativas y convenios comerciales.
               tr
-                td Tarifa <i>complimentary</i>
-                td Tarifa sin costo
-                td Cortesías, relaciones estratégicas
+                td
+                  | Tarifa de cortesía (
+                  i complimentary
+                  | )
+                td Alojamiento ofrecido sin costo al huésped, de acuerdo con las políticas del establecimiento.
+                td Se aplica en cortesías autorizadas, atenciones especiales y acuerdos institucionales.
               tr
-                td Tarifas promocionales
-                td Tarifas con descuentos y condiciones
-                td Estrategias comerciales
+                td Tarifa promocional
+                td Precio especial ofrecido durante determinados periodos o bajo condiciones comerciales específicas.
+                td Se utiliza en campañas promocionales, temporadas y estrategias de ocupación.
               tr
-                td Tarifa BAR (<i>best available rate</i>)
-                td Mejor tarifa disponible en todos los canales
-                td Transparencia y venta directa
+                td
+                  | Tarifa BAR (
+                  i best available rate
+                  | )
+                td La tarifa pública flexible y sin restricciones que sirve como precio base de venta del hotel. No es un valor estático, sino un mecanismo dinámico gestionado por el PMS.
+                td Su alcance permite configurarla de manera variable por día o según la duración de la estadía (LOS), automatizando la visualización de la tarifa más óptima en los canales de venta habilitados.
               tr
-                td Tarifa grupo o evento
-                td Tarifas para reservas grupales
-                td Congresos, eventos, ferias
+                td Tarifa grupal
+                td Precio especial establecido para reservas de un número determinado de habitaciones o huéspedes, según las políticas del alojamiento.
+                td Se aplica en reservas para grupos, congresos, convenciones y eventos.
               tr
-                td Tarifa larga estadía
-                td Tarifas especiales por estancias prolongadas
-                td Huéspedes permanentes
-              tr
-                td Paquetes o planes
-                td Combinación de servicios a precio atractivo
-                td Planes turísticos integrados
+                td Tarifa de larga estadía
+                td Precio especial establecido para huéspedes que permanecen durante un periodo prolongado.
+                td Se aplica en reservas de estancias prolongadas, según las condiciones comerciales del establecimiento.
 
     .bg-full-width.bg-fondo-9.px-5.py-4.mb-5
       .container
         .tarjeta.tarjeta--blanca.row.justify-content-center.align-items-center.mb-0.p-4
           .col-lg-9.order-2.order-lg-1
             h4.mb-3 Ejemplo práctico aplicado
-            p.mb-3 Un hotel identifica que durante un fin de semana de alta demanda por un evento en la ciudad, la ocupación alcanza el 95 %. En este caso, el área de reservas aplica una tarifa BAR elevada, optimizando los ingresos por habitación. Paralelamente, mantiene tarifas negociadas previamente con empresas, respetando acuerdos comerciales. En temporada baja, el mismo hotel implementa tarifas promocionales y paquetes (alojamiento + alimentación) para incentivar la demanda y mejorar la ocupación.
+            p.mb-3 Un hotel identifica que durante un fin de semana se celebrará un evento masivo en la ciudad, lo que proyecta un comportamiento de alta demanda. En este caso, el área de reservas y <em>Revenue Management</em> implementa una estrategia de tarifa BAR optimizada, configurando el sistema (por día o por duración de estancia) para que determine el precio público más rentable según el ritmo de reservas y proteja el inventario disponible. Paralelamente, el hotel mantiene sus tarifas negociadas previamente con empresas, respetando los acuerdos comerciales vigentes. En temporada baja, el mismo hotel implementa tarifas promocionales y paquetes (alojamiento + alimentación) para incentivar la demanda y mejorar la ocupación.
 
             .row.align-items-center
               .col-lg-auto.d-none.d-lg-flex
                 img(src="@/assets/curso/tema5/img04.svg").mx-auto
               .col-lg
-                p.mb-0 Este ejemplo evidencia que la gestión de tarifas no es un proceso estático, sino estratégico, donde el área de reservas juega un papel clave en la aplicación adecuada de los diferentes tipos de tarifas según el contexto del mercado.
+                p.mb-0 Este ejemplo evidencia que la gestión de tarifas no es un proceso estático ni depende de un solo indicador automático, sino que es estratégico. El área de reservas juega un papel clave en la parametrización técnica de los diferentes tipos de tarifas según el contexto y las variables del mercado.
           .col-lg-3.col-md-6.order-1.order-lg-2.mb-4.mb-lg-0
             img(src="@/assets/curso/tema5/img05.png", alt="").img-fluid
 

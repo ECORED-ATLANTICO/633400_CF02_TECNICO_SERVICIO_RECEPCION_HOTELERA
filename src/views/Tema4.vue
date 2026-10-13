@@ -45,7 +45,7 @@
             p.mb-0 Incluye la recepción, análisis y confirmación de solicitudes de reserva, tanto individuales como grupales, así como la promoción activa de los servicios del hotel para maximizar la ocupación.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Manejo de documentación")
-            p.mb-0 Comprende la elaboración y actualización de herramientas como el <i>planning</i> de reservas, listas de llegada, registros de clientes y archivo de información, garantizando la trazabilidad y control de los datos.
+            p.mb-0 Comprende la elaboración y actualización de herramientas como la planificación de reservas, listas de llegada, registros de clientes y archivo de información, garantizando la trazabilidad y control de los datos.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Coordinación interdepartamental")
             p.mb-0 El área de reservas debe mantener comunicación constante con otros departamentos, como recepción, <i>housekeeping</i> y alimentos y bebidas, para asegurar la correcta prestación del servicio y anticipar necesidades operativas.
@@ -123,7 +123,7 @@
               .col-lg-auto.d-none.d-lg-flex
                 img(src="@/assets/curso/tema4/img10.svg").mx-auto
               .col-lg
-                p.mb-0 Este caso evidencia que el área de reservas no solo cumple una función operativa, sino que tiene un impacto directo en la decisión de compra del cliente y en la generación de ingresos del establecimiento. En conclusión, las cualidades del personal de reservas son determinantes para garantizar una experiencia positiva desde el primer contacto, fortaleciendo la imagen del hotel y contribuyendo a su competitividad en el mercado.
+                p.mb-0 Este caso evidencia que el área de reservas no solo cumple una función operativa, sino que tiene un impacto directo en la decisión de compra del cliente y en la generación de ingresos del establecimiento. En conclusión, las cualidades del personal de reservas contribuyen a favorecer una experiencia desde el primer contacto, fortaleciendo la imagen del hotel y contribuyendo a su competitividad en el mercado.
           .col-lg-3.col-md-8
             img(src="@/assets/curso/tema4/img11.png", alt="").img-fluid
 
