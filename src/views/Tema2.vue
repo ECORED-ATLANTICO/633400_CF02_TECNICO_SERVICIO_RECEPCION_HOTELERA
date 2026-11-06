@@ -29,18 +29,22 @@
           .col-12.col-md-12
             p.mb-0 Por otra parte, el portafolio de servicios funciona como una carta de presentación institucional, que puede ser elaborada en formato físico o digital, y que incluye información relevante sobre la empresa. Entre sus componentes se encuentran datos como el nombre de la organización, trayectoria, misión, visión, objetivos, aliados estratégicos, clientes, proveedores y canales de contacto. Esta estructura permite generar confianza en el cliente, fortalecer la imagen corporativa y consolidar la identidad del establecimiento dentro del sector turístico, contribuyendo a una comunicación efectiva y a una mejor comercialización de los servicios (Carvajal, 2016).
  
-    .row.justify-content-center.mb-0
+    .row.justify-content-center.mb-3
       .col-12.col-lg-10.mb-0.col-md-12
-        .cita-decorada
+        .cita-decorada.mb-3
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-3.bg-color-1-degrade.br-15
             .row.justify-content-center.align-items-center
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/img13.svg", class="img-fluid cita-decorada__imagen-flotante-4")
-              .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Le invitamos a consultar el siguiente video, el cual resume las características principales del portafolio de servicios. 
-              .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
-                a.boton.color-acento-botones(href="https://youtu.be/3BsU1h2Syr4" target="_blank")
-                  span Ir al recurso
+              .col-12.col-lg-9.cita-decorada__texto.mb-4.mb-lg-0
+                p.m-3 Le invitamos a consultar el siguiente video, el cual resume las características principales del portafolio de servicios. 
+
+    
+    .row.justify-content-center.mb-3
+      .col-12.col-lg-10.mb-3
+        figure.mb-3
+          .video.mb-2
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/3BsU1h2Syr4?si=lRFXhG06L4ucSXsY" title="Recepción de requerimientos de clientes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
     
